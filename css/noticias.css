@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+
+.menu-movel li:nth-child(8) a {
+	background: #235674;
+	color: #f9a431;
+	cursor: default;
+}
